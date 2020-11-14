@@ -15,5 +15,5 @@
 
 1 - I generally wanted to keep my code clean to reduce the risk of bugs. This is mostly common with CSS styling as classes keep piling up which are not that necessary in achieving a final result, the best way i can keep it simple and direct is by erasing some classes and combine together under one particular tag which is a parent in our <index.html>. These tags will enable us in the future have the ability to correct and change if there need be and to stay more organized.
 
-2 - <h2> <img> <h3> have all been updated, this was done by reducing on number of classes nested in some of these tags in our style.css file and mainly targetting them with specific tags that act as a parent in the index.html file.
+2 - Style.css tags have all been updated, this was done by reducing on number of classes nested in some of these tags in our style.css file and mainly targetting them with specific tags that act as a parent in the index.html file.
 
